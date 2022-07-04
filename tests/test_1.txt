@@ -1,0 +1,3 @@
+c Basic simple test case
+p cnf 3  1
+1 2 3 0 
